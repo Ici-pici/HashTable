@@ -80,13 +80,3 @@ class HashTable:
 
 
 
-# table = HashTable()
-# print(table["Name"])
-# table["name"] = "Peter"
-# table["age"] = 25
-# table["age"] = 25
-# table.add("Gogo", 35)
-# table[5.23] = "alo"
-
-
-
